@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: left, width = "300px">
 ⌨️ Software Engineer II at BAE Systems at San Diego, CA. 
 
 💡 My interests include robotics, machine learning, embedded systems, and dynamic control systems.
@@ -14,7 +14,7 @@ redirect_from:
 🏫 Bachelor Degree in Mechanical Engineering at Drexel University.
 
 🤖 Drexel Ambassador at ICRA 2022.
-
+</div>
 
 # Projects
 

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jordan's Homepage"
 title_separator          : "-"
 name                     : &name "Jordan Irgang"
-description              : &description "personal description"
+description              : &description "Software Engineer Portfolio"
 url                      : https://yukimisoft.github.io/jordanirgang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "profilepic1.png"
   name             : "Jordan Irgang"
   pronouns         : "he/him"  
-  bio              : "Loves to be challenged."
-  location         : "Earth"
+  bio              : "Software Engineer at BAE Systems. Loves to be challenged."
+  location         : "Long Beach, CA"
   employer         : "BAE Systems"
   uri              : # URL
   email            : "jordanirgang@gmail.com" 
@@ -59,6 +59,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "jordan-irgang-94b797156"
+  devpost          : "devpost.com/jai36"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -7,7 +7,7 @@
 main:
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   #- title: "Dev Logs"
   #  url: /year-archive/

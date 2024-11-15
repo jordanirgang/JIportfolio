@@ -12,9 +12,9 @@ main:
   #- title: "Dev Logs"
   #  url: /year-archive/
 
-  - title: "Hacks"
-    url: https://devpost.com/jai36
+  #- title: "Hacks"
+  #  url: https://devpost.com/jai36
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     #refer this to the PDF file instead directly like in Boris'v 

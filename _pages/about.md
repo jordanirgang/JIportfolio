@@ -28,4 +28,4 @@ Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eg
 Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eget, fringilla dui. Proin in euismod nibh, pulvinar fringilla enim. Integer nulla odio, pellentesque in malesuada at, rhoncus eget dolor. Ut laoreet metus dignissim iaculis lobortis. Mauris ultrices finibus faucibus. Mauris mollis nibh nisi, nec vulputate mi ultricies id. In sit amet auctor enim. Aliquam at rhoncus erat, sed lacinia lorem.
 
 # Work Experience
-![Work Experience Compilation Pic](/images/workexperience.png)
+![](/images/workexperience.png)

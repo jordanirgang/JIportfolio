@@ -30,19 +30,19 @@ Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eg
 ![](./images/workexperience.png)
 
 # Skills
----
+--- 
 <div class="row">
   
   <div class="column">
-    <img src="./images/500x300.png" alt="Snow" style="width:33.33%%">
+    <img src="./images/500x300.png" alt="Snow" style="width:33.33%" flex="33.33%">
     </div>
   
   <div class="column">
-    <img src="./images/500x300.png" alt="Forest" style="width:33.33%%">
+    <img src="./images/500x300.png" alt="Forest" style="width:33.33%" flex="33.33%">
     </div>
   
   <div class="column">
-    <img src="500x300.png" alt="Mountains" style="width:33.33%%">
+    <img src="./images/500x300.png" alt="Mountains" style="width:33.33%" flex="33.33%">
    </div>
   
 </div>

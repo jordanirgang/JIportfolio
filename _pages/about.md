@@ -1,4 +1,11 @@
 ---
+permalink: /
+title: "👨🏻‍💻 Hello there, I'm Jordan!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 .row {
   display: flex;
 }
@@ -7,13 +14,7 @@
   flex: 33.33%;
   padding: 5px;
 }
-permalink: /
-title: "👨🏻‍💻 Hello there, I'm Jordan!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 ⌨️ Software Engineer II at BAE Systems at San Diego, CA. 
 
 💡 My interests include robotics, machine learning, embedded systems, and dynamic control systems.

@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic1.png"
+  avatar           : "avatartion.png"
   name             : "Jordan Irgang"
   #pronouns         : "he/him"  
   bio              : "Software Engineer.     "

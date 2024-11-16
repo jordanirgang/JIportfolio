@@ -6,14 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
 
 ⌨️ Software Engineer II at BAE Systems at San Diego, CA. 
 
@@ -43,15 +35,15 @@ Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eg
 <div class="row">
   
   <div class="column">
-    <img src="./images/500x300.png" alt="Snow" style="width:33.33%">
+    <img src="./images/500x300.png" alt="Snow" style="display: flex;">
     </div>
   
   <div class="column">
-    <img src="./images/500x300.png" alt="Forest" style="width:33.33%">
+    <img src="./images/500x300.png" alt="Forest" style="display: flex;">
     </div>
   
   <div class="column">
-    <img src="./images/500x300.png" alt="Mountains" style="width:33.33%">
+    <img src="./images/500x300.png" alt="Mountains" style="display: flex;">
    </div>
   
 </div>

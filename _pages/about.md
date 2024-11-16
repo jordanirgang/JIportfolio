@@ -1,31 +1,18 @@
 ---
 permalink: /
-title: "👨🏻‍💻 Hello there, I'm Jordan!"
+title: "👋 Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Thanks for coming to my website! I'm Jordan Irgang.
-
-I am a software engineer with a passion for robotics, embedded systems, and dynamic control systems. Currently, I am working for BAE Systems as a Software Engineer II.
+Hello there, I'm Jordan Irgang! I am a software engineer with a passion for robotics, embedded systems, and dynamic control systems. Currently, I am working for BAE Systems as a Software Engineer II.
 
 I received my Bachelor's degree in Mechanical Engineering from Drexel University where I served as a student ambassador for the Interntional Convention of Robotics and Automation in 2022. My studies have included coursework in digital electronics, robotics, machine design, classical mechanics, and control systems. As a software engineer with an academic background in mechanical engineering, I am interested in working on challenging projects that combine my disciplines. 
 
 My most recent project involves creating a robot arm with inverse kinematics that was created with 3D-printed parts.
 
 My skills include programming in Python, C++, C#, C, Bash, Java, and Javascript. In robotics, I have direct experience with ROS2, Gazebo, OpenCV, MediaPipe, YOLOv8, machine learning, controls, and embedded systems. Additionally, I am proficient in Linux, Git, CMake, unit testing, UML diagrams, and MATLAB.  I also have expertise in design and manufacturing and have used Fusion360, Autodesk Inventor, PTC Creo, MultiSim, and CAM and tool paths.
-
-Aside from robotics
-
-As an engineer, I enjoy working on challenging projects that combine multiple disciplines, from mechanical design and control systems to software development.
-⌨️ Software Engineer II at BAE Systems at San Diego, CA. 
-
-💡 My interests include robotics, machine learning, embedded systems, and dynamic control systems.
-
-🏫 Mechanical Engineering B.S. at Drexel University.
-
-🤖 Drexel Student Ambassador at ICRA 2022.
 
 # Projects
 

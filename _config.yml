@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profilepic1.png"
   name             : "Jordan Irgang"
-  pronouns         : "he/him"  
-  bio              : "Software Robotics Engineer.     Loves to be challenged."
+  #pronouns         : "he/him"  
+  bio              : "Software Engineer.     "
   location         : "Long Beach, CA"
-  employer         : "Software Engineer II, BAE Systems"
-  uri              : "https://www.devpost.com/jai36"
+  employer         : "BAE Systems plc"
+  #uri              : 
   email            : "jordanirgang@gmail.com" 
 
   # Academic websites

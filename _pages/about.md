@@ -28,3 +28,26 @@ Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eg
 # Work Experience
 ---
 ![](./images/workexperience.png)
+
+# Work Experience
+---
+<div class="row">
+  
+  <div class="column">
+    <img src="./images/500x300.png" alt="Snow" style="width:100%">
+    </div>
+  
+  <div class="column">
+    <img src="./images/500x300.png" alt="Forest" style="width:100%">
+    </div>
+  
+  <div class="column">
+    <img src="500x300.png" alt="Mountains" style="width:100%">
+   </div>
+  
+</div>
+
+
+![](./images/500x300.png){: .align-right width = "300px"}
+![](./images/500x300.png){: .align-right width = "300px"}
+![](./images/500x300.png){: .align-right width = "300px"}

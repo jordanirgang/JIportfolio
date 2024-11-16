@@ -32,17 +32,17 @@ Duis auctor molestie sem et placerat. Duis in velit imperdiet, accumsan lacus eg
 
 # Skills
 --- 
-<div class="row">
+<div class="row" style="display: flex;>
   
-  <div class="column">
+  <div class="column" style="display: flex;>
     <img src="./images/500x300.png" alt="Snow" style="display: flex;">
     </div>
   
-  <div class="column">
+  <div class="column" style="display: flex;>
     <img src="./images/500x300.png" alt="Forest" style="display: flex;">
     </div>
   
-  <div class="column">
+  <div class="column"style="display: flex;>
     <img src="./images/500x300.png" alt="Mountains" style="display: flex;">
    </div>
   

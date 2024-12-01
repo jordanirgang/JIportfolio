@@ -1,6 +1,6 @@
 ---
 title: "Intel Real Sense Multi-Person Pose Detection CPU"
-excerpt: "<img src='/images/Thumbnail_IntelRealSense.png'>"
+excerpt: "Excerpt goes here. <img src='./images/pad.png'>"
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

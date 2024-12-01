@@ -1,6 +1,6 @@
 ---
-title: "Intel Real Sense Multi-Person Pose Detection CPU"
-excerpt: "Excerpt goes here. <img src='./images/pad.png'>"
+title: "RCPPO"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/pad.png'>"
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

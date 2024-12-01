@@ -1,6 +1,6 @@
 ---
 title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/pad.png'>"
+excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/>![](./images/Thumbnail_IntelRealSense.png)"
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

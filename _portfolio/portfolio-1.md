@@ -1,9 +1,10 @@
-youtubeId: _Jam5S9RhWI
 ---
 title: "Intel Real Sense Multi-Person Pose Detection CPU"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/pad.png'>"
 collection: portfolio
 ---
+
+youtubeId: _Jam5S9RhWI
 
 {% include youtubePlayer.html id=page.youtubeId %}
 

@@ -2,10 +2,7 @@
 title: "Depth Based Multi-Human Skeletal Pose Detection."
 excerpt: "An AI-algorithm based motion detector that utilizes a depth camera for accurate motion capture. <br/><img src='/images/thumbnail1.png'>"
 collection: portfolio
-youtubeId: _Jam5S9RhWI
 ---
-
-{% include youtubePlayer.html id=page.youtubeId %}
 <br>
 ## Project Use Case 
 Most AI-based humanoid motion trackers rely on 2D image trackers which excludes depth accuracy as they work in pixel spaced. This project aimed to bridge that gap by utilizing AI RGB image pose detection and mapping those coordinates to a depth map for processing in real world metered coordinates.

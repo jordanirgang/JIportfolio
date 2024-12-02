@@ -1,5 +1,5 @@
 ---
-title: "Snap Gloves | MakeMIT 2021 Award Winner"
+title: "Snap Gloves MakeMIT 2021 Award Winner"
 excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/snapglove.jpg?raw=true)<br/><br/>A wearable IoT glove designed to control dangerous industrial hardware."
 collection: portfolio
 youtubeId: I13JGnt3HKc

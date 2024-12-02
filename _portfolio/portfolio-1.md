@@ -1,6 +1,6 @@
 ---
 title: "Depth Based Multi-Human Skeletal Pose Detection."
-excerpt: "![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail1.png))<br/><br/>An AI algorithm based motion detector that utilizes a depth camera for accurate motion capture."
+excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail1.png?raw=true)<br/><br/>An AI algorithm based motion detector that utilizes a depth camera for accurate motion capture."
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

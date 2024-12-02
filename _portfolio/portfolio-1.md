@@ -1,6 +1,6 @@
 ---
 title: "Depth Based Multi-Human Skeletal Pose Detection."
-excerpt: "An AI-algorithm based motion detector that utilizes a depth camera for accurate motion capture.<br/><img src='/images/500x300.png'>"
+excerpt: "An AI algorithm based motion detector that utilizes a depth camera for accurate motion capture.<br/><img src='images/workexperience.png'>"
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

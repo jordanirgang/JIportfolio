@@ -8,6 +8,8 @@ collection: portfolio
 ## Project Use Case 
 This project was created for the MakeMit 2022 hackathon where the team passed the initial pitch round and received $500 funding. I was personally invested in this project as I  believed that this experiment would assist my longtime friend in a wheelchair to use his muscles again and regain autonomy in his life. Before this hackathon I was learning how to build Pneumatic Air Muscles (PAMs).
 
+![](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail3.png?raw=true)
+
 ## Project Functionality
 An EEG MYOWear muscle sensor was placed on the arm and would send commands to a Raspberry PI if it detected nerve bioelectrical activity. It would then open and control pneumatic solenoids controlling the robber air muscles connected to an exoskeleton.
 

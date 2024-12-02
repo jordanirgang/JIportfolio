@@ -15,7 +15,7 @@ Math and theoretical proof of concepts are written in Python Jupyter books, wher
 - Designed the robot and 3d printed each part in the same 24 hour time frame while building parts with correct tolerances for interfacing with COTS hole patterns for motors.
 - Solved merge conflicts and programmed python based I2C interface with servo motor drivers.
 
-![]([https://github.com/jordanirgang/JIportfolio/blob/master/images/gallery1.jpg?raw=true](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail3.png?raw=true))
+![](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail3.png?raw=true)
 
 ## Next Steps
 - The webpage UI can have more complicated yes/no questions.

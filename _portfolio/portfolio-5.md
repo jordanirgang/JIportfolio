@@ -1,6 +1,6 @@
 ---
 title: "General Use PID Controller C++ Framework"
-excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/downloadcrop.png?raw=true)<br/><br/In order to bring closed loop motor control costs down, this framework will read a potentiometer/encoder and a motor and apply PID controls. This is being built to support my future projects."
+excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/downloadcrop.png?raw=true)<br/><br/>In order to bring closed loop motor control costs down, this framework will read a potentiometer/encoder and a motor and apply PID controls. This is being built to support my future projects."
 collection: portfolio
 youtubeId: I13JGnt3HKc
 ---

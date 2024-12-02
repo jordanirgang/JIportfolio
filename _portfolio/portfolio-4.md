@@ -1,6 +1,6 @@
 ---
 title: "Pneumatic Muscle Amplifier Exoskeleton"
-excerpt: "![alt text]([https://github.com/jordanirgang/JIportfolio/blob/master/images/snapglove.jpg?raw=true](https://github.com/jordanirgang/JIportfolio/blob/master/images/icra-jordan-irgang.png?raw=true))<br/><br/>An ongoing personal research project I am designing to help my friend in a wheelchair by making an amplifier exoskeleton that if he moves a muscle, this will continue the motion for him."
+excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/thumbnail4.png?raw=true)<br/><br/>An ongoing personal research project I am designing to help my friend in a wheelchair by making an amplifier exoskeleton that if he moves a muscle, this will continue the motion for him."
 collection: portfolio
 youtubeId: c8Sa4B728Yo
 ---

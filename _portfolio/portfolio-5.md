@@ -2,11 +2,7 @@
 title: "General Use PID Controller C++ Framework"
 excerpt: "![alt text](https://github.com/jordanirgang/JIportfolio/blob/master/images/downloadcrop.png?raw=true)<br/><br/>In order to bring closed loop motor control costs down, this framework will read a potentiometer/encoder and a motor and apply PID controls. This is being built to support my future projects."
 collection: portfolio
-youtubeId: I13JGnt3HKc
 ---
-
-{% include youtubePlayer.html id=page.youtubeId %}
-<br>
 
 ## Project Functionality
 Generic C++ classes for handling motor control and sensor reading contain functionality logic for how the sensor in theory should work. The implementation is called through arduino based extended classes so extra functionality can be written for different hardware use cases. Unit testing is embedded into the system via PlatformIO’s incorporation of  Unity(an embedded systems single file c based unit test framework) where additional features are regression tested automatically.

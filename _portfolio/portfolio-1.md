@@ -1,7 +1,7 @@
 ---
 title: "Depth Based Multi-Human Skeletal Pose Detection."
 
-excerpt: "![Thumbnail_IntelRealSense](https://github.com/user-attachments/assets/5b071d5a-989e-48d1-af4e-8366e9dfdae8)\\An AI-algorithm based motion detector that utilizes a depth camera for accurate motion capture."
+excerpt: "![Thumbnail_IntelRealSense](https://github.com/user-attachments/assets/5b071d5a-989e-48d1-af4e-8366e9dfdae8)##An AI-algorithm based motion detector that utilizes a depth camera for accurate motion capture."
 collection: portfolio
 youtubeId: _Jam5S9RhWI
 ---

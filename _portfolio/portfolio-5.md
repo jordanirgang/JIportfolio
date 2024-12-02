@@ -8,7 +8,7 @@ collection: portfolio
 Generic C++ classes for handling motor control and sensor reading contain functionality logic for how the sensor in theory should work. The implementation is called through arduino based extended classes so extra functionality can be written for different hardware use cases. Unit testing is embedded into the system via PlatformIO’s incorporation of  Unity(an embedded systems single file c based unit test framework) where additional features are regression tested automatically.
 Math and theoretical proof of concepts are written in Python Jupyter books, where the discrete system is simulated with SymPy, Numpy, and MatPlotlib.
 
-![]([https://github.com/jordanirgang/JIportfolio/blob/master/images/gallery3.jpg?raw=true](https://github.com/jordanirgang/JIportfolio/blob/master/images/download.png?raw=true))
+![](https://github.com/jordanirgang/JIportfolio/blob/master/images/download.png?raw=true)
 
 ## My Role
 - Designed UML and timing diagrams for the main full stack programmer.
